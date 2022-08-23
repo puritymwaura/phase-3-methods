@@ -1,4 +1,4 @@
-require_relative 'spec_helper'
+-require_relative 'spec_helper'
 require_relative '../methods'
 
 describe '#greet_programmer' do
